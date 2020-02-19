@@ -1,7 +1,0 @@
-<resources>
-    <string name="mqtt_service_name">MqttService</string>
-
-    <!-- network  -->
-    <string name="current_network_name">current network : </string>
-    <string name="no_network">no network !</string>
-</resources>
