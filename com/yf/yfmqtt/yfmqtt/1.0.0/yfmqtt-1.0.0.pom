@@ -6,7 +6,6 @@
   <artifactId>yfmqtt</artifactId>
   <version>1.0.0</version>
   <packaging>aar</packaging>
-  <name>yfmqtt</name>
   <dependencies>
     <dependency>
       <groupId>org.eclipse.paho</groupId>
